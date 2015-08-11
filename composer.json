@@ -1,0 +1,14 @@
+{
+    "name": "jingshouyan/rsa",
+    "description": "php rsa util",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jingshouyan",
+            "email": "jingshouyan@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
